@@ -1,0 +1,9 @@
+3DX_CUI_Supplier:
+     CUI, Inc
+
+3DX_CUI_Description:
+     2.5 mm, Mono, Right Angle, Through Hole, Audio Jack Connector
+
+3DX_CUI_Model Number:
+     MJ1-2503A
+
