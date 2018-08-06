@@ -1,0 +1,32 @@
+Title,Reef-PI_PWM Module,,,,,
+Revision,V0.2,,,,,
+Date,8/6/2018,,,,,
+Generated,8/6/2018 9:23,,,,,
+Company,,,,,,
+Comment 1,,,,,,
+Comment 2,,,,,,
+Comment 3,,,,,,
+Comment 4,,,,,,
+Total Parts,77,,,,,
+Total Unique Parts,11,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Ref,Qty,Value,Footprint,Datasheet,Available,MPN
+C1 ,1,330uF,Capacitors_THT:CP_Radial_D12.5mm_P5.00mm,https://www.mouser.at/datasheet/2/88/SAK_series-552996.pdf,https://www.mouser.at/ProductDetail/Cornell-Dubilier-CDE/337SAK050M?qs=sGAEpiMZZMsh%252b1woXyUXj6tSaZI%252bOgx%2fksngME7LAzk%3d,337SAK050M
+C2 C3 ,2,100nf,Capacitors_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm,https://www.mouser.at/datasheet/2/212/F3294_MMK-1101858.pdf,https://www.mouser.at/ProductDetail/kemet/mmk5104j50j01tr18l165tr18/?qs=qe%2fTxcMakihLUCH7vXErEQ==&countrycode=US&currencycode=USD,MMK5104J50J01TR18L16.5TR18
+J1 ,1,Conn_01x06_Male,Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm,https://www.mouser.com/datasheet/2/181/M20-999-1218971.pdf,https://www.mouser.com/ProductDetail/Harwin/M20-9990646?qs=sGAEpiMZZMs%252bGHln7q6pmzlZUuX%2f53qjKorxOWDNOUo%3d,M20-9990646
+J2 J3 J4 J5 J6 J7 ,6,Jumper,Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,Not applicable,Integrated in PCB design,N/A
+J8 J9 J10 J11 J12 J13 J14 J15 J16 J17 J18 J19 J20 J21 J22 J23 ,16,Audio-Jack-1,MJ1-2503A:CUI_MJ1-2503A,https://www.mouser.at/datasheet/2/670/mj1-2503a-1312398.pdf,https://www.mouser.at/ProductDetail/CUI/MJ1-2503A?qs=%2fha2pyFadugRb8YJ5pXDyOCH70hzTIqTPLuPAyW5mNJBUjmsZcUBYg%3d%3d,MJ1-2503A
+Q1 Q2 Q3 Q4 Q5 Q6 Q7 Q8 Q9 Q10 Q11 Q12 Q13 Q14 Q15 Q16 ,16,2N3904,TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval,https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf,https://www.mouser.at/ProductDetail/Central-Semiconductor/2N3904?qs=sGAEpiMZZMutncetXCRkfoW1QkrbVyPn,2N3904
+R1 R2 R3 R4 R5 R6 R7 R8 R17 R19 R21 R23 R25 R27 R29 R31 ,16,10K,Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical,https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf,https://www.mouser.com/ProductDetail/Yageo/FMP200JT-52-10K?qs=gt1LBUVyoHkKG7fWrbuf7A%3d%3d,FMP200JT-52-10K
+R9 R10 R11 R12 R13 R14 R15 R16 R18 R20 R22 R24 R26 R28 R30 R32 ,16,1K,Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical,https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf,https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d,FMP200JR-52-1K
+RN1 ,1,R_Network06,Resistors_THT:R_Array_SIP7,https://www.mouser.at/datasheet/2/54/600x-776645.pdf,Alternatively use standard 4K7 - 10K resistors,4607X-101-822LF
+U1 ,1,PCA9685PW,Housings_SSOP:TSSOP-28_4.4x9.7mm_Pitch0.65mm,https://www.mouser.at/datasheet/2/281/c49e-506.pdf,https://www.mouser.at/ProductDetail/Murata-Electronics/RDER71H104K0M1H03A?qs=sGAEpiMZZMsh%252b1woXyUXj6FiejJaP5q0BPYRVaPcumE%3d,RDER71H104K0M1H03A
+U2 ,1,uA7810,TO_SOT_Packages_THT:TO-220-3_Horizontal,https://www.mouser.at/datasheet/2/308/LM7810-1124978.pdf,https://www.mouser.at/ProductDetail/ON-Semiconductor-Fairchild/LM7810CT?qs=sGAEpiMZZMtzPgOfznR9QfzQe44omxbY,LM7810
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BOM made with KICAD_BOM_WIZARD (https://github.com/HashDefineElectronics/KiCad_BOM_Wizard.git),,,,,,
+Generated 8/6/2018 9:23:07 AM,,,,,,

@@ -49,7 +49,8 @@ F 1 "1K" V 7900 1250 50  0000 C CNN
 F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 7830 1250 50  0001 C CNN
 F 3 "https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf" H 7900 1250 50  0001 C CNN
 F 4 "FMP200JR-52-1K" V 7900 1250 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" V 7900 1250 60  0001 C CNN "Availability"
+F 5 "" V 7900 1250 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" H 0   0   50  0001 C CNN "Available"
 	1    7900 1250
 	0    1    1    0   
 $EndComp
@@ -75,7 +76,8 @@ F 1 "1K" V 7900 1750 50  0000 C CNN
 F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 7830 1750 50  0001 C CNN
 F 3 "https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf" H 7900 1750 50  0001 C CNN
 F 4 "FMP200JR-52-1K" V 7900 1750 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" V 7900 1750 60  0001 C CNN "Availability"
+F 5 "" V 7900 1750 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" H 0   0   50  0001 C CNN "Available"
 	1    7900 1750
 	0    1    1    0   
 $EndComp
@@ -101,7 +103,8 @@ F 1 "1K" V 7900 2250 50  0000 C CNN
 F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 7830 2250 50  0001 C CNN
 F 3 "https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf" H 7900 2250 50  0001 C CNN
 F 4 "FMP200JR-52-1K" V 7900 2250 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" V 7900 2250 60  0001 C CNN "Availability"
+F 5 "" V 7900 2250 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" H 0   0   50  0001 C CNN "Available"
 	1    7900 2250
 	0    1    1    0   
 $EndComp
@@ -127,7 +130,8 @@ F 1 "1K" V 7900 2750 50  0000 C CNN
 F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 7830 2750 50  0001 C CNN
 F 3 "https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf" H 7900 2750 50  0001 C CNN
 F 4 "FMP200JR-52-1K" V 7900 2750 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" V 7900 2750 60  0001 C CNN "Availability"
+F 5 "" V 7900 2750 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" H 0   0   50  0001 C CNN "Available"
 	1    7900 2750
 	0    1    1    0   
 $EndComp
@@ -153,7 +157,8 @@ F 1 "1K" V 7950 3250 50  0000 C CNN
 F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 7880 3250 50  0001 C CNN
 F 3 "https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf" H 7950 3250 50  0001 C CNN
 F 4 "FMP200JR-52-1K" V 7950 3250 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" V 7950 3250 60  0001 C CNN "Availability"
+F 5 "" V 7950 3250 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" H 0   0   50  0001 C CNN "Available"
 	1    7950 3250
 	0    1    1    0   
 $EndComp
@@ -179,7 +184,8 @@ F 1 "1K" V 7950 3750 50  0000 C CNN
 F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 7880 3750 50  0001 C CNN
 F 3 "https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf" H 7950 3750 50  0001 C CNN
 F 4 "FMP200JR-52-1K" V 7950 3750 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" V 7950 3750 60  0001 C CNN "Availability"
+F 5 "" V 7950 3750 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" H 0   0   50  0001 C CNN "Available"
 	1    7950 3750
 	0    1    1    0   
 $EndComp
@@ -205,7 +211,8 @@ F 1 "1K" V 7950 4250 50  0000 C CNN
 F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 7880 4250 50  0001 C CNN
 F 3 "https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf" H 7950 4250 50  0001 C CNN
 F 4 "FMP200JR-52-1K" V 7950 4250 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" V 7950 4250 60  0001 C CNN "Availability"
+F 5 "" V 7950 4250 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" H 0   0   50  0001 C CNN "Available"
 	1    7950 4250
 	0    1    1    0   
 $EndComp
@@ -231,7 +238,8 @@ F 1 "1K" V 7950 4750 50  0000 C CNN
 F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 7880 4750 50  0001 C CNN
 F 3 "https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf" H 7950 4750 50  0001 C CNN
 F 4 "FMP200JR-52-1K" V 7950 4750 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" V 7950 4750 60  0001 C CNN "Availability"
+F 5 "" V 7950 4750 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" H 0   0   50  0001 C CNN "Available"
 	1    7950 4750
 	0    1    1    0   
 $EndComp
@@ -397,9 +405,9 @@ P 5300 900
 F 0 "C3" H 5310 970 50  0000 L CNN
 F 1 "100nf" H 5310 820 50  0000 L CNN
 F 2 "Capacitors_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" H 5300 900 50  0001 C CNN
-F 3 "https://www.mouser.at/datasheet/2/281/c49e-506.pdf" H 5300 900 50  0001 C CNN
-F 4 "RDER71H104K0M1H03A" H 5300 900 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/Murata-Electronics/RDER71H104K0M1H03A?qs=sGAEpiMZZMsh%252b1woXyUXj6FiejJaP5q0BPYRVaPcumE%3d" H 5300 900 60  0001 C CNN "Available"
+F 3 "https://www.mouser.at/datasheet/2/212/F3294_MMK-1101858.pdf" H 5300 900 50  0001 C CNN
+F 4 "MMK5104J50J01TR18L16.5TR18" H 5300 900 60  0001 C CNN "MPN"
+F 5 "https://www.mouser.at/ProductDetail/kemet/mmk5104j50j01tr18l165tr18/?qs=qe%2fTxcMakihLUCH7vXErEQ==&countrycode=US&currencycode=USD" H 5300 900 60  0001 C CNN "Available"
 	1    5300 900 
 	1    0    0    -1  
 $EndComp
@@ -410,7 +418,9 @@ P 4600 900
 F 0 "C2" H 4610 970 50  0000 L CNN
 F 1 "100nf" H 4610 820 50  0000 L CNN
 F 2 "Capacitors_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" H 4600 900 50  0001 C CNN
-F 3 "" H 4600 900 50  0001 C CNN
+F 3 "https://www.mouser.at/datasheet/2/212/F3294_MMK-1101858.pdf" H 4600 900 50  0001 C CNN
+F 4 "https://www.mouser.at/ProductDetail/kemet/mmk5104j50j01tr18l165tr18/?qs=qe%2fTxcMakihLUCH7vXErEQ==&countrycode=US&currencycode=USD" H 0   0   50  0001 C CNN "Available"
+F 5 "MMK5104J50J01TR18L16.5TR18" H 0   0   50  0001 C CNN "MPN"
 	1    4600 900 
 	1    0    0    -1  
 $EndComp
@@ -652,9 +662,9 @@ P 3200 3400
 F 0 "J2" H 3300 3550 50  0000 C CNN
 F 1 "Jumper" H 3300 3251 50  0000 C CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" V 3274 3400 50  0001 C CNN
-F 3 "N/A" H 3200 3400 50  0001 C CNN
+F 3 "Not applicable" H 3200 3400 50  0001 C CNN
 F 4 "N/A" H 3200 3400 50  0001 C CNN "MPN"
-F 5 "N/A" H 3200 3400 50  0001 C CNN "Available"
+F 5 "Integrated in PCB design" H 3200 3400 50  0001 C CNN "Available"
 	1    3200 3400
 	0    1    1    0   
 $EndComp
@@ -665,9 +675,9 @@ P 3300 3400
 F 0 "J3" H 3400 3550 50  0000 C CNN
 F 1 "Jumper" H 3400 3251 50  0000 C CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" V 3374 3400 50  0001 C CNN
-F 3 "N/A" H 3300 3400 50  0001 C CNN
+F 3 "Not applicable" H 3300 3400 50  0001 C CNN
 F 4 "N/A" H 3300 3400 50  0001 C CNN "MPN"
-F 5 "N/A" H 3300 3400 50  0001 C CNN "Available"
+F 5 "Integrated in PCB design" H 3300 3400 50  0001 C CNN "Available"
 	1    3300 3400
 	0    1    1    0   
 $EndComp
@@ -678,9 +688,9 @@ P 3400 3400
 F 0 "J4" H 3500 3550 50  0000 C CNN
 F 1 "Jumper" H 3500 3251 50  0000 C CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" V 3474 3400 50  0001 C CNN
-F 3 "N/A" H 3400 3400 50  0001 C CNN
+F 3 "Not applicable" H 3400 3400 50  0001 C CNN
 F 4 "N/A" H 3400 3400 50  0001 C CNN "MPN"
-F 5 "N/A" H 3400 3400 50  0001 C CNN "Available"
+F 5 "Integrated in PCB design" H 3400 3400 50  0001 C CNN "Available"
 	1    3400 3400
 	0    1    1    0   
 $EndComp
@@ -691,8 +701,9 @@ P 3500 3400
 F 0 "J5" H 3600 3550 50  0000 C CNN
 F 1 "Jumper" H 3600 3251 50  0000 C CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" V 3574 3400 50  0001 C CNN
-F 3 "N/A" H 3500 3400 50  0001 C CNN
+F 3 "Not applicable" H 3500 3400 50  0001 C CNN
 F 4 "N/A" H 3500 3400 50  0001 C CNN "MPN"
+F 5 "Integrated in PCB design" H 0   0   50  0001 C CNN "Available"
 	1    3500 3400
 	0    1    1    0   
 $EndComp
@@ -703,9 +714,9 @@ P 3600 3400
 F 0 "J6" H 3700 3550 50  0000 C CNN
 F 1 "Jumper" H 3700 3251 50  0000 C CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" V 3674 3400 50  0001 C CNN
-F 3 "N/A" H 3600 3400 50  0001 C CNN
+F 3 "Not applicable" H 3600 3400 50  0001 C CNN
 F 4 "N/A" H 3600 3400 50  0001 C CNN "MPN"
-F 5 "N/A" H 3600 3400 50  0001 C CNN "Available"
+F 5 "Integrated in PCB design" H 3600 3400 50  0001 C CNN "Available"
 	1    3600 3400
 	0    1    1    0   
 $EndComp
@@ -716,9 +727,9 @@ P 3700 3400
 F 0 "J7" H 3800 3550 50  0000 C CNN
 F 1 "Jumper" H 3800 3251 50  0000 C CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" V 3774 3400 50  0001 C CNN
-F 3 "" H 3700 3400 50  0001 C CNN
+F 3 "Not applicable" H 3700 3400 50  0001 C CNN
 F 4 "N/A" H 3700 3400 50  0001 C CNN "MPN"
-F 5 "N/A" H 3700 3400 50  0001 C CNN "Available"
+F 5 "Integrated in PCB design" H 3700 3400 50  0001 C CNN "Available"
 	1    3700 3400
 	0    1    1    0   
 $EndComp
@@ -761,7 +772,7 @@ F 1 "R_Network06" V 3200 2800 50  0000 C CNN
 F 2 "Resistors_THT:R_Array_SIP7" V 3275 2800 50  0001 C CNN
 F 3 "https://www.mouser.at/datasheet/2/54/600x-776645.pdf" H 2900 2800 50  0001 C CNN
 F 4 "4607X-101-822LF" V 2900 2800 60  0001 C CNN "MPN"
-F 5 "Use standard 4K7 - 10K resistors" V 2900 2800 60  0001 C CNN "Available"
+F 5 "Alternatively use standard 4K7 - 10K resistors" V 2900 2800 60  0001 C CNN "Available"
 	1    2900 2800
 	0    -1   -1   0   
 $EndComp
@@ -823,9 +834,10 @@ P 9600 1850
 F 0 "J13" H 9575 1925 50  0000 C CNN
 F 1 "Audio-Jack-1" H 9575 1675 50  0000 C CNN
 F 2 "MJ1-2503A:CUI_MJ1-2503A" H 9850 1850 50  0001 C CNN
-F 3 "https://www.mouser.com/datasheet/2/670/rcj-04x-1312601.pdf" H 9850 1850 50  0001 C CNN
-F 4 "RCJ-041" H 9600 1850 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/CUI/RCJ-041?qs=%2fha2pyFadugXcYYagwJz3cvNSHqwguRzeI5%252bNGAU5so%3d" H 9600 1850 60  0001 C CNN "Availability"
+F 3 "https://www.mouser.at/datasheet/2/670/mj1-2503a-1312398.pdf" H 9850 1850 50  0001 C CNN
+F 4 "MJ1-2503A" H 9600 1850 60  0001 C CNN "MPN"
+F 5 "" H 9600 1850 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/CUI/MJ1-2503A?qs=%2fha2pyFadugRb8YJ5pXDyOCH70hzTIqTPLuPAyW5mNJBUjmsZcUBYg%3d%3d" H 0   0   50  0001 C CNN "Available"
 	1    9600 1850
 	-1   0    0    -1  
 $EndComp
@@ -836,9 +848,10 @@ P 9600 1350
 F 0 "J12" H 9575 1425 50  0000 C CNN
 F 1 "Audio-Jack-1" H 9575 1175 50  0000 C CNN
 F 2 "MJ1-2503A:CUI_MJ1-2503A" H 9850 1350 50  0001 C CNN
-F 3 "https://www.mouser.com/datasheet/2/670/rcj-04x-1312601.pdf" H 9850 1350 50  0001 C CNN
-F 4 "RCJ-041" H 9600 1350 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/CUI/RCJ-041?qs=%2fha2pyFadugXcYYagwJz3cvNSHqwguRzeI5%252bNGAU5so%3d" H 9600 1350 60  0001 C CNN "Availabilty"
+F 3 "https://www.mouser.at/datasheet/2/670/mj1-2503a-1312398.pdf" H 9850 1350 50  0001 C CNN
+F 4 "MJ1-2503A" H 9600 1350 60  0001 C CNN "MPN"
+F 5 "" H 9600 1350 60  0001 C CNN "Availabilty"
+F 6 "https://www.mouser.at/ProductDetail/CUI/MJ1-2503A?qs=%2fha2pyFadugRb8YJ5pXDyOCH70hzTIqTPLuPAyW5mNJBUjmsZcUBYg%3d%3d" H 0   0   50  0001 C CNN "Available"
 	1    9600 1350
 	-1   0    0    -1  
 $EndComp
@@ -849,9 +862,10 @@ P 9600 2350
 F 0 "J14" H 9575 2425 50  0000 C CNN
 F 1 "Audio-Jack-1" H 9575 2175 50  0000 C CNN
 F 2 "MJ1-2503A:CUI_MJ1-2503A" H 9850 2350 50  0001 C CNN
-F 3 "https://www.mouser.com/datasheet/2/670/rcj-04x-1312601.pdf" H 9850 2350 50  0001 C CNN
-F 4 "RCJ-041" H 9600 2350 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/CUI/RCJ-041?qs=%2fha2pyFadugXcYYagwJz3cvNSHqwguRzeI5%252bNGAU5so%3d" H 9600 2350 60  0001 C CNN "Availability"
+F 3 "https://www.mouser.at/datasheet/2/670/mj1-2503a-1312398.pdf" H 9850 2350 50  0001 C CNN
+F 4 "MJ1-2503A" H 9600 2350 60  0001 C CNN "MPN"
+F 5 "" H 9600 2350 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/CUI/MJ1-2503A?qs=%2fha2pyFadugRb8YJ5pXDyOCH70hzTIqTPLuPAyW5mNJBUjmsZcUBYg%3d%3d" H 0   0   50  0001 C CNN "Available"
 	1    9600 2350
 	-1   0    0    -1  
 $EndComp
@@ -862,9 +876,10 @@ P 9600 2850
 F 0 "J15" H 9575 2925 50  0000 C CNN
 F 1 "Audio-Jack-1" H 9575 2675 50  0000 C CNN
 F 2 "MJ1-2503A:CUI_MJ1-2503A" H 9850 2850 50  0001 C CNN
-F 3 "https://www.mouser.com/datasheet/2/670/rcj-04x-1312601.pdf" H 9850 2850 50  0001 C CNN
-F 4 "RCJ-041" H 9600 2850 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/CUI/RCJ-041?qs=%2fha2pyFadugXcYYagwJz3cvNSHqwguRzeI5%252bNGAU5so%3d" H 9600 2850 60  0001 C CNN "Availability"
+F 3 "https://www.mouser.at/datasheet/2/670/mj1-2503a-1312398.pdf" H 9850 2850 50  0001 C CNN
+F 4 "MJ1-2503A" H 9600 2850 60  0001 C CNN "MPN"
+F 5 "" H 9600 2850 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/CUI/MJ1-2503A?qs=%2fha2pyFadugRb8YJ5pXDyOCH70hzTIqTPLuPAyW5mNJBUjmsZcUBYg%3d%3d" H 0   0   50  0001 C CNN "Available"
 	1    9600 2850
 	-1   0    0    -1  
 $EndComp
@@ -875,9 +890,10 @@ P 9600 3350
 F 0 "J16" H 9575 3425 50  0000 C CNN
 F 1 "Audio-Jack-1" H 9575 3175 50  0000 C CNN
 F 2 "MJ1-2503A:CUI_MJ1-2503A" H 9850 3350 50  0001 C CNN
-F 3 "https://www.mouser.com/datasheet/2/670/rcj-04x-1312601.pdf" H 9850 3350 50  0001 C CNN
-F 4 "RCJ-041" H 9600 3350 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/CUI/RCJ-041?qs=%2fha2pyFadugXcYYagwJz3cvNSHqwguRzeI5%252bNGAU5so%3d" H 9600 3350 60  0001 C CNN "Availability"
+F 3 "https://www.mouser.at/datasheet/2/670/mj1-2503a-1312398.pdf" H 9850 3350 50  0001 C CNN
+F 4 "MJ1-2503A" H 9600 3350 60  0001 C CNN "MPN"
+F 5 "" H 9600 3350 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/CUI/MJ1-2503A?qs=%2fha2pyFadugRb8YJ5pXDyOCH70hzTIqTPLuPAyW5mNJBUjmsZcUBYg%3d%3d" H 0   0   50  0001 C CNN "Available"
 	1    9600 3350
 	-1   0    0    -1  
 $EndComp
@@ -888,8 +904,9 @@ P 9600 3850
 F 0 "J17" H 9575 3925 50  0000 C CNN
 F 1 "Audio-Jack-1" H 9575 3675 50  0000 C CNN
 F 2 "MJ1-2503A:CUI_MJ1-2503A" H 9850 3850 50  0001 C CNN
-F 3 "https://www.mouser.com/datasheet/2/670/rcj-04x-1312601.pdf" H 9850 3850 50  0001 C CNN
-F 4 "RCJ-041" H 9600 3850 60  0001 C CNN "MPN"
+F 3 "https://www.mouser.at/datasheet/2/670/mj1-2503a-1312398.pdf" H 9850 3850 50  0001 C CNN
+F 4 "MJ1-2503A" H 9600 3850 60  0001 C CNN "MPN"
+F 5 "https://www.mouser.at/ProductDetail/CUI/MJ1-2503A?qs=%2fha2pyFadugRb8YJ5pXDyOCH70hzTIqTPLuPAyW5mNJBUjmsZcUBYg%3d%3d" H 0   0   50  0001 C CNN "Available"
 	1    9600 3850
 	-1   0    0    -1  
 $EndComp
@@ -900,9 +917,10 @@ P 9600 4350
 F 0 "J18" H 9575 4425 50  0000 C CNN
 F 1 "Audio-Jack-1" H 9575 4175 50  0000 C CNN
 F 2 "MJ1-2503A:CUI_MJ1-2503A" H 9850 4350 50  0001 C CNN
-F 3 "https://www.mouser.com/datasheet/2/670/rcj-04x-1312601.pdf" H 9850 4350 50  0001 C CNN
-F 4 "RCJ-041" H 9600 4350 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/CUI/RCJ-041?qs=%2fha2pyFadugXcYYagwJz3cvNSHqwguRzeI5%252bNGAU5so%3d" H 9600 4350 60  0001 C CNN "Availability"
+F 3 "https://www.mouser.at/datasheet/2/670/mj1-2503a-1312398.pdf" H 9850 4350 50  0001 C CNN
+F 4 "MJ1-2503A" H 9600 4350 60  0001 C CNN "MPN"
+F 5 "" H 9600 4350 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/CUI/MJ1-2503A?qs=%2fha2pyFadugRb8YJ5pXDyOCH70hzTIqTPLuPAyW5mNJBUjmsZcUBYg%3d%3d" H 0   0   50  0001 C CNN "Available"
 	1    9600 4350
 	-1   0    0    -1  
 $EndComp
@@ -913,9 +931,10 @@ P 9600 4850
 F 0 "J19" H 9575 4925 50  0000 C CNN
 F 1 "Audio-Jack-1" H 9575 4675 50  0000 C CNN
 F 2 "MJ1-2503A:CUI_MJ1-2503A" H 9850 4850 50  0001 C CNN
-F 3 "https://www.mouser.com/datasheet/2/670/rcj-04x-1312601.pdf" H 9850 4850 50  0001 C CNN
-F 4 "RCJ-041" H 9600 4850 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/CUI/RCJ-041?qs=%2fha2pyFadugXcYYagwJz3cvNSHqwguRzeI5%252bNGAU5so%3d" H 9600 4850 60  0001 C CNN "Availability"
+F 3 "https://www.mouser.at/datasheet/2/670/mj1-2503a-1312398.pdf" H 9850 4850 50  0001 C CNN
+F 4 "MJ1-2503A" H 9600 4850 60  0001 C CNN "MPN"
+F 5 "" H 9600 4850 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/CUI/MJ1-2503A?qs=%2fha2pyFadugRb8YJ5pXDyOCH70hzTIqTPLuPAyW5mNJBUjmsZcUBYg%3d%3d" H 0   0   50  0001 C CNN "Available"
 	1    9600 4850
 	-1   0    0    -1  
 $EndComp
@@ -1121,7 +1140,8 @@ F 1 "1K" V 2500 5850 50  0000 C CNN
 F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 2430 5850 50  0001 C CNN
 F 3 "https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf" H 2500 5850 50  0001 C CNN
 F 4 "FMP200JR-52-1K" V 2500 5850 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" V 2500 5850 60  0001 C CNN "Availability"
+F 5 "" V 2500 5850 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" H 0   0   50  0001 C CNN "Available"
 	1    2500 5850
 	-1   0    0    1   
 $EndComp
@@ -1147,7 +1167,8 @@ F 1 "1K" V 3000 5850 50  0000 C CNN
 F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 2930 5850 50  0001 C CNN
 F 3 "https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf" H 3000 5850 50  0001 C CNN
 F 4 "FMP200JR-52-1K" V 3000 5850 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" V 3000 5850 60  0001 C CNN "Availability"
+F 5 "" V 3000 5850 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" H 0   0   50  0001 C CNN "Available"
 	1    3000 5850
 	-1   0    0    1   
 $EndComp
@@ -1173,7 +1194,8 @@ F 1 "1K" V 3500 5850 50  0000 C CNN
 F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 3430 5850 50  0001 C CNN
 F 3 "https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf" H 3500 5850 50  0001 C CNN
 F 4 "FMP200JR-52-1K" V 3500 5850 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" V 3500 5850 60  0001 C CNN "Availability"
+F 5 "" V 3500 5850 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" H 0   0   50  0001 C CNN "Available"
 	1    3500 5850
 	-1   0    0    1   
 $EndComp
@@ -1197,9 +1219,10 @@ P 3900 7050
 F 0 "J11" H 3875 7125 50  0000 C CNN
 F 1 "Audio-Jack-1" H 3875 6875 50  0000 C CNN
 F 2 "MJ1-2503A:CUI_MJ1-2503A" H 4150 7050 50  0001 C CNN
-F 3 "https://www.mouser.com/datasheet/2/670/rcj-04x-1312601.pdf" H 4150 7050 50  0001 C CNN
-F 4 "RCJ-041" H 3900 7050 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/CUI/RCJ-041?qs=%2fha2pyFadugXcYYagwJz3cvNSHqwguRzeI5%252bNGAU5so%3d" H 3900 7050 60  0001 C CNN "Availabilty"
+F 3 "https://www.mouser.at/datasheet/2/670/mj1-2503a-1312398.pdf" H 4150 7050 50  0001 C CNN
+F 4 "MJ1-2503A" H 3900 7050 60  0001 C CNN "MPN"
+F 5 "" H 3900 7050 60  0001 C CNN "Availabilty"
+F 6 "https://www.mouser.at/ProductDetail/CUI/MJ1-2503A?qs=%2fha2pyFadugRb8YJ5pXDyOCH70hzTIqTPLuPAyW5mNJBUjmsZcUBYg%3d%3d" H 0   0   50  0001 C CNN "Available"
 	1    3900 7050
 	0    1    -1   0   
 $EndComp
@@ -1212,7 +1235,8 @@ F 1 "1K" V 4000 5850 50  0000 C CNN
 F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 3930 5850 50  0001 C CNN
 F 3 "https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf" H 4000 5850 50  0001 C CNN
 F 4 "FMP200JR-52-1K" V 4000 5850 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" V 4000 5850 60  0001 C CNN "Availability"
+F 5 "" V 4000 5850 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" H 0   0   50  0001 C CNN "Available"
 	1    4000 5850
 	-1   0    0    1   
 $EndComp
@@ -1236,9 +1260,10 @@ P 4400 7050
 F 0 "J20" H 4375 7125 50  0000 C CNN
 F 1 "Audio-Jack-1" H 4375 6875 50  0000 C CNN
 F 2 "MJ1-2503A:CUI_MJ1-2503A" H 4650 7050 50  0001 C CNN
-F 3 "https://www.mouser.com/datasheet/2/670/rcj-04x-1312601.pdf" H 4650 7050 50  0001 C CNN
-F 4 "RCJ-041" H 4400 7050 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/CUI/RCJ-041?qs=%2fha2pyFadugXcYYagwJz3cvNSHqwguRzeI5%252bNGAU5so%3d" H 4400 7050 60  0001 C CNN "Availabilty"
+F 3 "https://www.mouser.at/datasheet/2/670/mj1-2503a-1312398.pdf" H 4650 7050 50  0001 C CNN
+F 4 "MJ1-2503A" H 4400 7050 60  0001 C CNN "MPN"
+F 5 "" H 4400 7050 60  0001 C CNN "Availabilty"
+F 6 "https://www.mouser.at/ProductDetail/CUI/MJ1-2503A?qs=%2fha2pyFadugRb8YJ5pXDyOCH70hzTIqTPLuPAyW5mNJBUjmsZcUBYg%3d%3d" H 0   0   50  0001 C CNN "Available"
 	1    4400 7050
 	0    1    -1   0   
 $EndComp
@@ -1251,7 +1276,8 @@ F 1 "1K" V 4500 5850 50  0000 C CNN
 F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 4430 5850 50  0001 C CNN
 F 3 "https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf" H 4500 5850 50  0001 C CNN
 F 4 "FMP200JR-52-1K" V 4500 5850 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" V 4500 5850 60  0001 C CNN "Availability"
+F 5 "" V 4500 5850 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" H 0   0   50  0001 C CNN "Available"
 	1    4500 5850
 	-1   0    0    1   
 $EndComp
@@ -1275,9 +1301,10 @@ P 4900 7050
 F 0 "J21" H 4875 7125 50  0000 C CNN
 F 1 "Audio-Jack-1" H 4875 6875 50  0000 C CNN
 F 2 "MJ1-2503A:CUI_MJ1-2503A" H 5150 7050 50  0001 C CNN
-F 3 "https://www.mouser.com/datasheet/2/670/rcj-04x-1312601.pdf" H 5150 7050 50  0001 C CNN
-F 4 "RCJ-041" H 4900 7050 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/CUI/RCJ-041?qs=%2fha2pyFadugXcYYagwJz3cvNSHqwguRzeI5%252bNGAU5so%3d" H 4900 7050 60  0001 C CNN "Availabilty"
+F 3 "https://www.mouser.at/datasheet/2/670/mj1-2503a-1312398.pdf" H 5150 7050 50  0001 C CNN
+F 4 "MJ1-2503A" H 4900 7050 60  0001 C CNN "MPN"
+F 5 "" H 4900 7050 60  0001 C CNN "Availabilty"
+F 6 "https://www.mouser.at/ProductDetail/CUI/MJ1-2503A?qs=%2fha2pyFadugRb8YJ5pXDyOCH70hzTIqTPLuPAyW5mNJBUjmsZcUBYg%3d%3d" H 0   0   50  0001 C CNN "Available"
 	1    4900 7050
 	0    1    -1   0   
 $EndComp
@@ -1290,7 +1317,8 @@ F 1 "1K" V 5000 5850 50  0000 C CNN
 F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 4930 5850 50  0001 C CNN
 F 3 "https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf" H 5000 5850 50  0001 C CNN
 F 4 "FMP200JR-52-1K" V 5000 5850 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" V 5000 5850 60  0001 C CNN "Availability"
+F 5 "" V 5000 5850 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" H 0   0   50  0001 C CNN "Available"
 	1    5000 5850
 	-1   0    0    1   
 $EndComp
@@ -1314,9 +1342,10 @@ P 5400 7050
 F 0 "J22" H 5375 7125 50  0000 C CNN
 F 1 "Audio-Jack-1" H 5375 6875 50  0000 C CNN
 F 2 "MJ1-2503A:CUI_MJ1-2503A" H 5650 7050 50  0001 C CNN
-F 3 "https://www.mouser.com/datasheet/2/670/rcj-04x-1312601.pdf" H 5650 7050 50  0001 C CNN
-F 4 "RCJ-041" H 5400 7050 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/CUI/RCJ-041?qs=%2fha2pyFadugXcYYagwJz3cvNSHqwguRzeI5%252bNGAU5so%3d" H 5400 7050 60  0001 C CNN "Availabilty"
+F 3 "https://www.mouser.at/datasheet/2/670/mj1-2503a-1312398.pdf" H 5650 7050 50  0001 C CNN
+F 4 "MJ1-2503A" H 5400 7050 60  0001 C CNN "MPN"
+F 5 "" H 5400 7050 60  0001 C CNN "Availabilty"
+F 6 "https://www.mouser.at/ProductDetail/CUI/MJ1-2503A?qs=%2fha2pyFadugRb8YJ5pXDyOCH70hzTIqTPLuPAyW5mNJBUjmsZcUBYg%3d%3d" H 0   0   50  0001 C CNN "Available"
 	1    5400 7050
 	0    1    -1   0   
 $EndComp
@@ -1329,7 +1358,8 @@ F 1 "1K" V 5500 5850 50  0000 C CNN
 F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 5430 5850 50  0001 C CNN
 F 3 "https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf" H 5500 5850 50  0001 C CNN
 F 4 "FMP200JR-52-1K" V 5500 5850 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" V 5500 5850 60  0001 C CNN "Availability"
+F 5 "" V 5500 5850 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" H 0   0   50  0001 C CNN "Available"
 	1    5500 5850
 	-1   0    0    1   
 $EndComp
@@ -1353,9 +1383,10 @@ P 5900 7050
 F 0 "J23" H 5875 7125 50  0000 C CNN
 F 1 "Audio-Jack-1" H 5875 6875 50  0000 C CNN
 F 2 "MJ1-2503A:CUI_MJ1-2503A" H 6150 7050 50  0001 C CNN
-F 3 "https://www.mouser.com/datasheet/2/670/rcj-04x-1312601.pdf" H 6150 7050 50  0001 C CNN
-F 4 "RCJ-041" H 5900 7050 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/CUI/RCJ-041?qs=%2fha2pyFadugXcYYagwJz3cvNSHqwguRzeI5%252bNGAU5so%3d" H 5900 7050 60  0001 C CNN "Availabilty"
+F 3 "https://www.mouser.at/datasheet/2/670/mj1-2503a-1312398.pdf" H 6150 7050 50  0001 C CNN
+F 4 "MJ1-2503A" H 5900 7050 60  0001 C CNN "MPN"
+F 5 "" H 5900 7050 60  0001 C CNN "Availabilty"
+F 6 "https://www.mouser.at/ProductDetail/CUI/MJ1-2503A?qs=%2fha2pyFadugRb8YJ5pXDyOCH70hzTIqTPLuPAyW5mNJBUjmsZcUBYg%3d%3d" H 0   0   50  0001 C CNN "Available"
 	1    5900 7050
 	0    1    -1   0   
 $EndComp
@@ -1368,7 +1399,8 @@ F 1 "1K" V 6000 5850 50  0000 C CNN
 F 2 "Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical" V 5930 5850 50  0001 C CNN
 F 3 "https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf" H 6000 5850 50  0001 C CNN
 F 4 "FMP200JR-52-1K" V 6000 5850 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" V 6000 5850 60  0001 C CNN "Availability"
+F 5 "" V 6000 5850 60  0001 C CNN "Availability"
+F 6 "https://www.mouser.at/ProductDetail/Yageo/FMP200JR-52-1K?qs=sGAEpiMZZMukHu%252bjC5l7YU1KDXB2UgZEvn3JdA3JuLo%3d" H 0   0   50  0001 C CNN "Available"
 	1    6000 5850
 	-1   0    0    1   
 $EndComp
@@ -1640,9 +1672,10 @@ P 3400 7050
 F 0 "J10" H 3375 7125 50  0000 C CNN
 F 1 "Audio-Jack-1" H 3375 6875 50  0000 C CNN
 F 2 "MJ1-2503A:CUI_MJ1-2503A" H 3650 7050 50  0001 C CNN
-F 3 "https://www.mouser.com/datasheet/2/670/rcj-04x-1312601.pdf" H 3650 7050 50  0001 C CNN
-F 4 "RCJ-041" H 3400 7050 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/CUI/RCJ-041?qs=%2fha2pyFadugXcYYagwJz3cvNSHqwguRzeI5%252bNGAU5so%3d" H 3400 7050 60  0001 C CNN "Availabilty"
+F 3 "https://www.mouser.at/datasheet/2/670/mj1-2503a-1312398.pdf" H 3650 7050 50  0001 C CNN
+F 4 "MJ1-2503A" H 3400 7050 60  0001 C CNN "MPN"
+F 5 "" H 3400 7050 60  0001 C CNN "Availabilty"
+F 6 "https://www.mouser.at/ProductDetail/CUI/MJ1-2503A?qs=%2fha2pyFadugRb8YJ5pXDyOCH70hzTIqTPLuPAyW5mNJBUjmsZcUBYg%3d%3d" H 0   0   50  0001 C CNN "Available"
 	1    3400 7050
 	0    1    -1   0   
 $EndComp
@@ -1653,9 +1686,10 @@ P 2900 7050
 F 0 "J9" H 2875 7125 50  0000 C CNN
 F 1 "Audio-Jack-1" H 2875 6875 50  0000 C CNN
 F 2 "MJ1-2503A:CUI_MJ1-2503A" H 3150 7050 50  0001 C CNN
-F 3 "https://www.mouser.com/datasheet/2/670/rcj-04x-1312601.pdf" H 3150 7050 50  0001 C CNN
-F 4 "RCJ-041" H 2900 7050 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/CUI/RCJ-041?qs=%2fha2pyFadugXcYYagwJz3cvNSHqwguRzeI5%252bNGAU5so%3d" H 2900 7050 60  0001 C CNN "Availabilty"
+F 3 "https://www.mouser.at/datasheet/2/670/mj1-2503a-1312398.pdf" H 3150 7050 50  0001 C CNN
+F 4 "MJ1-2503A" H 2900 7050 60  0001 C CNN "MPN"
+F 5 "" H 2900 7050 60  0001 C CNN "Availabilty"
+F 6 "https://www.mouser.at/ProductDetail/CUI/MJ1-2503A?qs=%2fha2pyFadugRb8YJ5pXDyOCH70hzTIqTPLuPAyW5mNJBUjmsZcUBYg%3d%3d" H 0   0   50  0001 C CNN "Available"
 	1    2900 7050
 	0    1    -1   0   
 $EndComp
@@ -1666,9 +1700,10 @@ P 2400 7050
 F 0 "J8" H 2375 7125 50  0000 C CNN
 F 1 "Audio-Jack-1" H 2375 6875 50  0000 C CNN
 F 2 "MJ1-2503A:CUI_MJ1-2503A" H 2650 7050 50  0001 C CNN
-F 3 "https://www.mouser.com/datasheet/2/670/rcj-04x-1312601.pdf" H 2650 7050 50  0001 C CNN
-F 4 "RCJ-041" H 2400 7050 60  0001 C CNN "MPN"
-F 5 "https://www.mouser.at/ProductDetail/CUI/RCJ-041?qs=%2fha2pyFadugXcYYagwJz3cvNSHqwguRzeI5%252bNGAU5so%3d" H 2400 7050 60  0001 C CNN "Availabilty"
+F 3 "https://www.mouser.at/datasheet/2/670/mj1-2503a-1312398.pdf" H 2650 7050 50  0001 C CNN
+F 4 "MJ1-2503A" H 2400 7050 60  0001 C CNN "MPN"
+F 5 "" H 2400 7050 60  0001 C CNN "Availabilty"
+F 6 "https://www.mouser.at/ProductDetail/CUI/MJ1-2503A?qs=%2fha2pyFadugRb8YJ5pXDyOCH70hzTIqTPLuPAyW5mNJBUjmsZcUBYg%3d%3d" H 0   0   50  0001 C CNN "Available"
 	1    2400 7050
 	0    1    -1   0   
 $EndComp
@@ -1686,8 +1721,10 @@ U 1 1 5B7120DF
 P 7950 1450
 F 0 "Q1" H 8141 1496 50  0000 L CNN
 F 1 "2N3904" H 8141 1405 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 8150 1375 50  0001 L CIN
+F 2 "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval" H 8150 1375 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 7950 1450 50  0001 L CNN
+F 4 "https://www.mouser.at/ProductDetail/Central-Semiconductor/2N3904?qs=sGAEpiMZZMutncetXCRkfoW1QkrbVyPn" H 0   0   50  0001 C CNN "Available"
+F 5 "2N3904" H 0   0   50  0001 C CNN "MPN"
 	1    7950 1450
 	1    0    0    -1  
 $EndComp
@@ -1698,8 +1735,10 @@ U 1 1 5B712463
 P 7950 1950
 F 0 "Q2" H 8141 1996 50  0000 L CNN
 F 1 "2N3904" H 8141 1905 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 8150 1875 50  0001 L CIN
+F 2 "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval" H 8150 1875 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 7950 1950 50  0001 L CNN
+F 4 "https://www.mouser.at/ProductDetail/Central-Semiconductor/2N3904?qs=sGAEpiMZZMutncetXCRkfoW1QkrbVyPn" H 0   0   50  0001 C CNN "Available"
+F 5 "2N3904" H 0   0   50  0001 C CNN "MPN"
 	1    7950 1950
 	1    0    0    -1  
 $EndComp
@@ -1710,8 +1749,10 @@ U 1 1 5B7127E3
 P 7950 2450
 F 0 "Q3" H 8141 2496 50  0000 L CNN
 F 1 "2N3904" H 8141 2405 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 8150 2375 50  0001 L CIN
+F 2 "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval" H 8150 2375 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 7950 2450 50  0001 L CNN
+F 4 "https://www.mouser.at/ProductDetail/Central-Semiconductor/2N3904?qs=sGAEpiMZZMutncetXCRkfoW1QkrbVyPn" H 0   0   50  0001 C CNN "Available"
+F 5 "2N3904" H 0   0   50  0001 C CNN "MPN"
 	1    7950 2450
 	1    0    0    -1  
 $EndComp
@@ -1722,8 +1763,10 @@ U 1 1 5B712B43
 P 7950 2950
 F 0 "Q4" H 8141 2996 50  0000 L CNN
 F 1 "2N3904" H 8141 2905 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 8150 2875 50  0001 L CIN
+F 2 "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval" H 8150 2875 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 7950 2950 50  0001 L CNN
+F 4 "https://www.mouser.at/ProductDetail/Central-Semiconductor/2N3904?qs=sGAEpiMZZMutncetXCRkfoW1QkrbVyPn" H 0   0   50  0001 C CNN "Available"
+F 5 "2N3904" H 0   0   50  0001 C CNN "MPN"
 	1    7950 2950
 	1    0    0    -1  
 $EndComp
@@ -1734,8 +1777,10 @@ U 1 1 5B712FA7
 P 8000 3450
 F 0 "Q5" H 8191 3496 50  0000 L CNN
 F 1 "2N3904" H 8191 3405 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 8200 3375 50  0001 L CIN
+F 2 "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval" H 8200 3375 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 8000 3450 50  0001 L CNN
+F 4 "https://www.mouser.at/ProductDetail/Central-Semiconductor/2N3904?qs=sGAEpiMZZMutncetXCRkfoW1QkrbVyPn" H 0   0   50  0001 C CNN "Available"
+F 5 "2N3904" H 0   0   50  0001 C CNN "MPN"
 	1    8000 3450
 	1    0    0    -1  
 $EndComp
@@ -1746,8 +1791,10 @@ U 1 1 5B7133BF
 P 8000 3950
 F 0 "Q6" H 8191 3996 50  0000 L CNN
 F 1 "2N3904" H 8191 3905 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 8200 3875 50  0001 L CIN
+F 2 "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval" H 8200 3875 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 8000 3950 50  0001 L CNN
+F 4 "https://www.mouser.at/ProductDetail/Central-Semiconductor/2N3904?qs=sGAEpiMZZMutncetXCRkfoW1QkrbVyPn" H 0   0   50  0001 C CNN "Available"
+F 5 "2N3904" H 0   0   50  0001 C CNN "MPN"
 	1    8000 3950
 	1    0    0    -1  
 $EndComp
@@ -1758,8 +1805,10 @@ U 1 1 5B713801
 P 8000 4450
 F 0 "Q7" H 8191 4496 50  0000 L CNN
 F 1 "2N3904" H 8191 4405 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 8200 4375 50  0001 L CIN
+F 2 "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval" H 8200 4375 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 8000 4450 50  0001 L CNN
+F 4 "https://www.mouser.at/ProductDetail/Central-Semiconductor/2N3904?qs=sGAEpiMZZMutncetXCRkfoW1QkrbVyPn" H 0   0   50  0001 C CNN "Available"
+F 5 "2N3904" H 0   0   50  0001 C CNN "MPN"
 	1    8000 4450
 	1    0    0    -1  
 $EndComp
@@ -1770,8 +1819,10 @@ U 1 1 5B713B57
 P 8000 4950
 F 0 "Q8" H 8191 4996 50  0000 L CNN
 F 1 "2N3904" H 8191 4905 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 8200 4875 50  0001 L CIN
+F 2 "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval" H 8200 4875 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 8000 4950 50  0001 L CNN
+F 4 "https://www.mouser.at/ProductDetail/Central-Semiconductor/2N3904?qs=sGAEpiMZZMutncetXCRkfoW1QkrbVyPn" H 0   0   50  0001 C CNN "Available"
+F 5 "2N3904" H 0   0   50  0001 C CNN "MPN"
 	1    8000 4950
 	1    0    0    -1  
 $EndComp
@@ -1782,8 +1833,10 @@ U 1 1 5B713EAD
 P 2300 6100
 F 0 "Q9" V 2536 6100 50  0000 C CNN
 F 1 "2N3904" V 2627 6100 50  0000 C CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 2500 6025 50  0001 L CIN
+F 2 "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval" H 2500 6025 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 2300 6100 50  0001 L CNN
+F 4 "https://www.mouser.at/ProductDetail/Central-Semiconductor/2N3904?qs=sGAEpiMZZMutncetXCRkfoW1QkrbVyPn" H 0   0   50  0001 C CNN "Available"
+F 5 "2N3904" H 0   0   50  0001 C CNN "MPN"
 	1    2300 6100
 	0    1    1    0   
 $EndComp
@@ -1800,8 +1853,10 @@ U 1 1 5B714297
 P 2800 6100
 F 0 "Q10" V 3036 6100 50  0000 C CNN
 F 1 "2N3904" V 3127 6100 50  0000 C CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 3000 6025 50  0001 L CIN
+F 2 "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval" H 3000 6025 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 2800 6100 50  0001 L CNN
+F 4 "https://www.mouser.at/ProductDetail/Central-Semiconductor/2N3904?qs=sGAEpiMZZMutncetXCRkfoW1QkrbVyPn" H 0   0   50  0001 C CNN "Available"
+F 5 "2N3904" H 0   0   50  0001 C CNN "MPN"
 	1    2800 6100
 	0    1    1    0   
 $EndComp
@@ -1814,8 +1869,10 @@ U 1 1 5B71453B
 P 3300 6100
 F 0 "Q11" V 3536 6100 50  0000 C CNN
 F 1 "2N3904" V 3627 6100 50  0000 C CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 3500 6025 50  0001 L CIN
+F 2 "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval" H 3500 6025 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 3300 6100 50  0001 L CNN
+F 4 "https://www.mouser.at/ProductDetail/Central-Semiconductor/2N3904?qs=sGAEpiMZZMutncetXCRkfoW1QkrbVyPn" H 0   0   50  0001 C CNN "Available"
+F 5 "2N3904" H 0   0   50  0001 C CNN "MPN"
 	1    3300 6100
 	0    1    1    0   
 $EndComp
@@ -1832,8 +1889,10 @@ U 1 1 5B7149AF
 P 3800 6100
 F 0 "Q12" V 4036 6100 50  0000 C CNN
 F 1 "2N3904" V 4127 6100 50  0000 C CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 4000 6025 50  0001 L CIN
+F 2 "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval" H 4000 6025 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 3800 6100 50  0001 L CNN
+F 4 "https://www.mouser.at/ProductDetail/Central-Semiconductor/2N3904?qs=sGAEpiMZZMutncetXCRkfoW1QkrbVyPn" H 0   0   50  0001 C CNN "Available"
+F 5 "2N3904" H 0   0   50  0001 C CNN "MPN"
 	1    3800 6100
 	0    1    1    0   
 $EndComp
@@ -1848,8 +1907,10 @@ U 1 1 5B714CDD
 P 4300 6100
 F 0 "Q13" V 4536 6100 50  0000 C CNN
 F 1 "2N3904" V 4627 6100 50  0000 C CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 4500 6025 50  0001 L CIN
+F 2 "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval" H 4500 6025 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 4300 6100 50  0001 L CNN
+F 4 "https://www.mouser.at/ProductDetail/Central-Semiconductor/2N3904?qs=sGAEpiMZZMutncetXCRkfoW1QkrbVyPn" H 0   0   50  0001 C CNN "Available"
+F 5 "2N3904" H 0   0   50  0001 C CNN "MPN"
 	1    4300 6100
 	0    1    1    0   
 $EndComp
@@ -1864,8 +1925,10 @@ U 1 1 5B714F9F
 P 4800 6100
 F 0 "Q14" V 5036 6100 50  0000 C CNN
 F 1 "2N3904" V 5127 6100 50  0000 C CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 5000 6025 50  0001 L CIN
+F 2 "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval" H 5000 6025 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 4800 6100 50  0001 L CNN
+F 4 "https://www.mouser.at/ProductDetail/Central-Semiconductor/2N3904?qs=sGAEpiMZZMutncetXCRkfoW1QkrbVyPn" H 0   0   50  0001 C CNN "Available"
+F 5 "2N3904" H 0   0   50  0001 C CNN "MPN"
 	1    4800 6100
 	0    1    1    0   
 $EndComp
@@ -1880,8 +1943,10 @@ U 1 1 5B7152E5
 P 5300 6100
 F 0 "Q15" V 5536 6100 50  0000 C CNN
 F 1 "2N3904" V 5627 6100 50  0000 C CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 5500 6025 50  0001 L CIN
+F 2 "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval" H 5500 6025 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 5300 6100 50  0001 L CNN
+F 4 "https://www.mouser.at/ProductDetail/Central-Semiconductor/2N3904?qs=sGAEpiMZZMutncetXCRkfoW1QkrbVyPn" H 0   0   50  0001 C CNN "Available"
+F 5 "2N3904" H 0   0   50  0001 C CNN "MPN"
 	1    5300 6100
 	0    1    1    0   
 $EndComp
@@ -1896,8 +1961,10 @@ U 1 1 5B715627
 P 5800 6100
 F 0 "Q16" V 6036 6100 50  0000 C CNN
 F 1 "2N3904" V 6127 6100 50  0000 C CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 6000 6025 50  0001 L CIN
+F 2 "TO_SOT_Packages_THT:TO-92_Inline_Narrow_Oval" H 6000 6025 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 5800 6100 50  0001 L CNN
+F 4 "https://www.mouser.at/ProductDetail/Central-Semiconductor/2N3904?qs=sGAEpiMZZMutncetXCRkfoW1QkrbVyPn" H 0   0   50  0001 C CNN "Available"
+F 5 "2N3904" H 0   0   50  0001 C CNN "MPN"
 	1    5800 6100
 	0    1    1    0   
 $EndComp
