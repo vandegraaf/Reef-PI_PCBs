@@ -12,4 +12,5 @@ It requires an external 12V power supply to operate the dosing pumps
 This board has been tested (except I2C, but should be ok). No changes were made to the schematics, but some improvements to power and dosing connections have been made to the PCB
 The HAT documentation contains all information of which connectors and related GPIO signals to use
 
-PWM (I2C extention board) to drive up to 16 10V PWM signals. This board has not been tested!
+The present PWM files do NOT work !!
+I have a new design which fits on top of the Reef-PI_HAT which had a minor mistake. After I've updated this design, I'll update all relevant information. With the Reef-PI_PWM an additional 16 channels for light control are added.
