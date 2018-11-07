@@ -1,36 +1,34 @@
 Title,Reef-PI HAT
-Revision,
+Revision,1.0
 Date,2018-08-02
-Generated,8/13/2018 1:15:33 PM
+Generated,11/7/2018 8:25:58 AM
 Company,
 Comment 1,
 Comment 2,
 Comment 3,
 Comment 4,
 Total Parts,21
-Total Unique Parts,15
+Total Unique Parts,13
 
 
 
-Ref,Qty,Value,Footprint,Datasheet,Available,Field5,MPN,
-C1 C6 ,2,100nF,Capacitors_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm,https://www.mouser.com/datasheet/2/212/F3294_MMK-1101858.pdf,https://www.mouser.com/ProductDetail/KEMET/MMK5104J50J01TR18L165TR18?qs=sGAEpiMZZMv1cc3ydrPrF5x3WQ3kgUjq2n7LI2iOtYY%3d, ,MMK5 104K50J01L4 BULK
-C4 ,1,100nF,Capacitors_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm,https://www.mouser.com/datasheet/2/212/F3294_MMK-1101858.pdf,https://www.mouser.com/ProductDetail/KEMET/MMK5104J50J01TR18L165TR18?qs=sGAEpiMZZMv1cc3ydrPrF5x3WQ3kgUjq2n7LI2iOtYY%3d, ,MMK5104J50J01TR18L16.5TR18
-C5 ,1,10uF,Capacitors_THT:CP_Radial_D6.3mm_P2.50mm,https://www.mouser.com/datasheet/2/88/RSS_series-553040.pdf,https://www.mouser.com/ProductDetail/Illinois-Capacitor-CDE/106RSS050M?qs=sGAEpiMZZMtZ1n0r9vR22fPWwtj8kO8a58s44%2fdFKj09plvQeLN9jQ%3d%3d, ,106RSS050M
-J1 ,1,Conn_01x02,Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm,https://www.mouser.com/datasheet/2/324/ItemDetail_1715022-929342.pdf,https://www.mouser.com/ProductDetail/Phoenix-Contact/1715022?qs=sGAEpiMZZMv8kklI404QlQ5JHVXTAtUD, ,651-1715022
-J2 ,1,Conn_02x20_Odd_Even,Pin_Headers:Pin_Header_Straight_2x20_Pitch2.54mm,https://www.mouser.com/datasheet/2/418/NG_CD_826629_AC-1220906.pdf,https://www.mouser.com/ProductDetail/TE-Connectivity/2-826925-0?qs=sGAEpiMZZMs%252bGHln7q6pm6Upc30RNkAX7%252bsQ1F79SCE%3d, ,2-826925-0
-J3 ,1,Conn_01x02,Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm,http://www.jst-mfg.com/product/pdf/eng/eXH.pdf,Ebay, ,http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
-J4 ,1,Conn_01x02,Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm,http://www.jst-mfg.com/product/pdf/eng/eXH.pdf, ,Ebay,http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
-J5 ,1,Conn_01x03,SJ1-3533NG:CUI_SJ1-3533NG,https://www.cui.com/product/resource/sj1-353xng.pdf,https://www.mouser.com/ProductDetail/CUI/SJ1-3533NG?qs=%2fha2pyFaduglOW6%2fGHaxFTtDzgX5jy4lT1DvwLSs%2f4zg9whX7S1hBg%3d%3d, ,SJ1-3533NG
-J6 J7 ,2,Conn_01x04,Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm,http://www.jst-mfg.com/product/pdf/eng/eXH.pdf,Ebay, ,http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
-J8 ,1,Conn_01x06,Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm,http://www.jst-mfg.com/product/pdf/eng/eXH.pdf,Ebay, ,B6B-XH-A
-J9 ,1,Conn_02x10_Odd_Even,Socket_Strips:Socket_Strip_Angled_2x10_Pitch2.54mm,~,Aliexpress.com, ,2.54mm Pitch 2x10 Pin 20 Pin Female Double Row Right Angle Pin Header Strip
-R1 R3 R5 ,3,4K7,Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf,https://www.mouser.com/ProductDetail/Yageo/CFR-25JT-52-4K7?qs=sGAEpiMZZMukHu%252bjC5l7YY9Rw%2foCMY%252bkAa5MYwSus5A%3d, ,CFR-25JT-52-4K7
-R2 R4 ,2,360,Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf,https://www.mouser.com/ProductDetail/Yageo/MFR-25FTE52-360R?qs=sGAEpiMZZMukHu%252bjC5l7YSmb5PYXOMoV%2f%252bs02PAm%252bVQ%3d, ,MFR-25FTE52-360R
-U1 ,1,L293D,Housings_DIP:DIP-16_W7.62mm,http://www.ti.com/lit/gpn/l293d,https://www.mouser.com/ProductDetail/Texas-Instruments/L293DNE?qs=sGAEpiMZZMtYFXwiBRPs0wSafWlCmJbc, ,L293DNE
-U2 U3 ,2,ULN2803A,Housings_DIP:DIP-18_W7.62mm,https://www.mouser.com/datasheet/2/389/uln2801a-957494.pdf,https://www.mouser.com/ProductDetail/STMicroelectronics/ULN2803A?qs=sGAEpiMZZMvAvBNgSS9LqpP7ived4CP2, ,ULN2803A
+Ref,Qty,Value,Footprint,Datasheet,Available,MPN,
+C1 C4 C6 ,3,100nF,Capacitors_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm,https://www.mouser.com/datasheet/2/212/F3294_MMK-1101858.pdf,https://www.mouser.com/ProductDetail/KEMET/MMK5104J50J01TR18L165TR18?qs=sGAEpiMZZMv1cc3ydrPrF5x3WQ3kgUjq2n7LI2iOtYY%3d,MMK5104J50J01TR18L16.5TR18
+C5 ,1,10uF,Capacitors_THT:CP_Radial_D6.3mm_P2.50mm,https://www.mouser.com/datasheet/2/88/RSS_series-553040.pdf,https://www.mouser.com/ProductDetail/Illinois-Capacitor-CDE/106RSS050M?qs=sGAEpiMZZMtZ1n0r9vR22fPWwtj8kO8a58s44%2fdFKj09plvQeLN9jQ%3d%3d,106RSS050M
+J1 ,1,Conn_01x02,Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm,https://www.mouser.com/datasheet/2/324/ItemDetail_1715022-929342.pdf,https://www.mouser.com/ProductDetail/Phoenix-Contact/1715022?qs=sGAEpiMZZMv8kklI404QlQ5JHVXTAtUD,1715022
+J2 ,1,Conn_02x20_Odd_Even,Pin_Headers:Pin_Header_Straight_2x20_Pitch2.54mm,,https://www.mouser.at/ProductDetail/Adafruit/2222?qs=sGAEpiMZZMsMyYRRhGMFNhmPBiclXg21QVJnSoTyCdM%3d,2222
+J3 J4 ,2,Conn_01x02,Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm,http://www.jst-mfg.com/product/pdf/eng/eXH.pdf,Best to buy JST XH kit at Aliexpress  Banggood or eBay. Not available at Mouser (best is 90 degree turned for easier connection),http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
+J5 ,1,Conn_01x03,SJ1-3533NG:CUI_SJ1-3533NG,https://www.cui.com/product/resource/sj1-353xng.pdf,https://www.mouser.com/ProductDetail/CUI/SJ1-3533NG?qs=%2fha2pyFaduglOW6%2fGHaxFTtDzgX5jy4lT1DvwLSs%2f4zg9whX7S1hBg%3d%3d,SJ1-3533NG
+J6 J7 ,2,Conn_01x04,Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm,http://www.jst-mfg.com/product/pdf/eng/eXH.pdf,Best to buy JST XH kit at Aliexpress  Banggood or eBay. Not available at Mouser (best is 90 degree turned for easier connection),http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
+J8 ,1,Conn_01x06,Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm,https://www.mouser.at/datasheet/2/181/M20-782-1220556.pdf,https://www.mouser.at/ProductDetail/Harwin/M20-7820646?qs=sGAEpiMZZMs%252bGHln7q6pmzlZUuX%2f53qjd9Ri%252bf2usQ4%3d,M20-7820646
+J9 ,1,Conn_02x10_Odd_Even,Socket_Strips:Socket_Strip_Angled_2x10_Pitch2.54mm,https://drawings-pdf.s3.amazonaws.com/10494.pdf,search at Aliexpress  Banggod  eBay or Amazon for MPN description,2.54mm Pitch 2x10 Pin 20 Pin Female Double Row Right Angle Pin Header Strip
+R1 R3 R5 ,3,4K7,Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf,https://www.mouser.com/ProductDetail/Yageo/CFR-25JT-52-4K7?qs=sGAEpiMZZMukHu%252bjC5l7YY9Rw%2foCMY%252bkAa5MYwSus5A%3d,CFR-25JT-52-4K7
+R2 R4 ,2,360,Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,https://www.mouser.at/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf,https://www.mouser.com/ProductDetail/Yageo/MFR-25FTE52-360R?qs=sGAEpiMZZMukHu%252bjC5l7YSmb5PYXOMoV%2f%252bs02PAm%252bVQ%3d,MFR-25FTE52-360R
+U1 ,1,L293D,Housings_DIP:DIP-16_W7.62mm,http://www.ti.com/lit/gpn/l293d,https://www.mouser.com/ProductDetail/Texas-Instruments/L293DNE?qs=sGAEpiMZZMtYFXwiBRPs0wSafWlCmJbc,L293DNE
+U2 U3 ,2,ULN2803A,Housings_DIP:DIP-18_W7.62mm,https://www.mouser.com/datasheet/2/389/uln2801a-957494.pdf,https://www.mouser.com/ProductDetail/STMicroelectronics/ULN2803A?qs=sGAEpiMZZMvAvBNgSS9LqpP7ived4CP2,ULN2803A
 
 
 
 
 BOM made with KICAD_BOM_WIZARD (https://github.com/HashDefineElectronics/KiCad_BOM_Wizard.git)
-Generated 8/13/2018 1:15:33 PM
+Generated 11/7/2018 8:25:58 AM
